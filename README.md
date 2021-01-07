@@ -1,4 +1,4 @@
-Introduction: My name is Timothy Jackson and this is my first project while learning to code.
+My name is Timothy Jackson and this is my first project while learning to code.
 
 Goals:
 
